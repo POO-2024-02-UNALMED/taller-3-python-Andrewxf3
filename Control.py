@@ -1,3 +1,4 @@
+import TV;
 class Control:
     def __init__(self):
         self.__tv = None  
